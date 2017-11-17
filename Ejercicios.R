@@ -193,6 +193,16 @@ is.character(alf)
 #en este caso "one" es mayor en codigo ascii al caracter 2 .
 		
 
+#EJERCICIO 10
+ #EL CODIGO :
+ c(1, FALSE)
+c("a", 1)
+c(list(1), "a")
+c(TRUE, 1L)
+#EN LA PRIMERA LINEA GENERA UN VECTOR DE NUMERICO : 1 , 0
+#LA SEGUNDA LINEA GENERA OTRO VECTOR DE DOS ELEMENTOS TIPO CARACTER "a" ,"1"
+#LA TERCERA LINEA GENERA UN VECTOR TIPO CARACTER : "1" , "a"
+# LA CUARTA LINEA DEVUELVE UN VECTOR TIPO NUMERICO 0 , 1
 
 
  
